@@ -1,8 +1,8 @@
 # Projeto individual - Sistema Resilia
 Projeto individual do quarto módulo do curso de WebDev Full Stack da Resilia. A proposta foi modelar um banco de dados para o novo sistema de acompanhamento para a Resilia.
 
-(./img/Modelo_conceitual.png)
-(./img/Modelo_lógico.png)
+![MC](./img/Modelo_conceitual.png)
+![ML](./img/Modelo_lógico.png)
 
 ## Tecnologias utilizadas
 - MySQL
