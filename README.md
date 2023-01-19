@@ -17,3 +17,4 @@ Sim, são elas: professor e dependente.
 Os principais campos são as chaves primárias (ID_aluno, ID_curso, ID_turma, ID_professor e ID_dependente) e estrangeiras das entidades, sendo essas últimas responsáveis pelas relações. Os principais e únicos tipos utilizados foram o varchar o int.
 
 ### Como essas entidades estão relacionadas?
+Da seguinte forma: Um aluno pode estar matriculado em um curso que contém uma turma ou mais. Essa turma conta com um professor ou mais que pode ter mais de um dependente.
