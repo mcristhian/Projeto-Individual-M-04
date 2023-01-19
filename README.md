@@ -8,6 +8,7 @@ Projeto individual do quarto módulo do curso de WebDev Full Stack da Resilia. A
 ![ML](./img/Modelo_lógico.png)
 
 **Modelo físico**
+
 Arquivo "modelo_fisico.sql" no repositório.
 
 ## Tecnologias utilizadas
